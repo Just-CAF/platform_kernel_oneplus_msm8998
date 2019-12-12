@@ -1216,6 +1216,7 @@ enum nl80211_commands {
 	NL80211_CMD_NOTIFY_RADAR,
 
 	NL80211_CMD_UPDATE_OWE_INFO,
+
 	/* add new commands above here */
 
 	/* used to define NL80211_CMD_MAX below */
